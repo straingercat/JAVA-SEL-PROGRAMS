@@ -6,7 +6,7 @@ public class FibnocciSeries {
 		
 		int n=5, a=0,b=1,c;
 		
-		for(int i=1;i<=5;i++)
+		for(int i=1;i<=n;i++)
 		{
 			System.out.println(a+" ");
 			

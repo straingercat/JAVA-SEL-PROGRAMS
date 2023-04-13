@@ -35,9 +35,10 @@ public class Find_the_no_occurance_char_in_given_string {
 		
 		
 		//print the both character and the count
-		System.out.print(ch);
-		System.out.print(count);
-			
+		System.out.print(ch+"=");
+		
+		System.out.print(count+" ");
+		
 		}
 		
 

@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class RemoveDupchar {
 
 	public static void main(String[] args) {
-String s="mandya";
+    String s="mandya";
 		
 		//Create set collection(hash set) and add all the character of the string in to set
 		HashSet<Character> set=new HashSet<Character>();
